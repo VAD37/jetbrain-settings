@@ -1,0 +1,14 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <ignoredBuildNumbers>
+      <item value="211.6693.127" />
+      <item value="211.7142.19" />
+    </ignoredBuildNumbers>
+    <option name="LAST_BUILD_CHECKED" value="RD-211.6693.105" />
+    <option name="LAST_TIME_CHECKED" value="1621817743351" />
+    <pluginHosts>
+      <item value="https://plugins.zhile.io" />
+    </pluginHosts>
+    <option name="THIRD_PARTY_PLUGINS_ALLOWED" value="true" />
+  </component>
+</application>

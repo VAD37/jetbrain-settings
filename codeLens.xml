@@ -1,0 +1,15 @@
+<application>
+  <component name="CodeLensSettings" defaultAnchor="Right">
+    <anchor>
+      <map>
+        <entry key="CognitiveComplexityCodeInsightsProvider" value="Right" />
+        <entry key="Unity Assets Usage" value="Default" />
+        <entry key="Unity implicit usage" value="Default" />
+        <entry key="VcsAuthorCodeLensProvider" value="Default" />
+      </map>
+    </anchor>
+    <enabled>
+      <map />
+    </enabled>
+  </component>
+</application>
